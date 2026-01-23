@@ -199,24 +199,7 @@ Olist는 브라질 전역의 판매자를 연결하는 이커머스 통합 플�
 
 ---
 
-## 18. 프로젝트 구조
-📦 olist-logistics-analysis
-
-┣ 📂 data
-
-┣ 📂 notebooks
-
-┣ 📂 visualization
-
-┣ 📂 geo
-
-┣ 📜 README.md
-
-┗ 📜 requirements.txt
-
----
-
-## 19. 팀 구성 및 역할
+## 18. 팀 구성 및 역할
 
 | 이름 | 역할 | 담당 업무 |
 |----|----|----|
@@ -230,7 +213,7 @@ Olist는 브라질 전역의 판매자를 연결하는 이커머스 통합 플�
 
 ---
 
-## 20. 실행 환경
+## 19. 실행 환경
 
 - Python 3.10~11.x
 - pandas
@@ -242,7 +225,7 @@ Olist는 브라질 전역의 판매자를 연결하는 이커머스 통합 플�
 
 ---
 
-## 21. 참고 자료
+## 20. 참고 자료
 
 - [**Maranhão State Climate Classification (ResearchGate)**](https://www.researchgate.net/figure/Map-of-climate-classification-of-Maranhao-StateBrazil_fig3_311782369)
 - [**Mato Grosso Weather Guide (DIY.org)**](https://www.diy.org/article/mato_grosso)
